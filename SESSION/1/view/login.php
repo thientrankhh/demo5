@@ -33,7 +33,7 @@
 	</main>
 
 	<footer>
-		
+		@coppy right by Nhat Thien
 	</footer>
 </body>
 </html>
